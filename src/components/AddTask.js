@@ -20,7 +20,7 @@ const AddTask = ({addTask}) => {
             <div className='form-control'>
                 <label>Name</label>
                 <input type='text'
-                    placeholder='Name of Task'
+                    placeholder='Name of the Task'
                     value={name}
                     onChange={(e) => setName(e.target.value)}
                 ></input>
