@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "React",
+      "level": true
+    },
+    {
+      "id": 2,
+      "name": "DS",
+      "level": true
+    },
+    {
+      "id": 3,
+      "name": "Algo",
+      "level": false
+    }
+  ]
+}
